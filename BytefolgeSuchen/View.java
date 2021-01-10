@@ -1,5 +1,3 @@
-package muntenbeck.GUI.BytefolgeSuchen;
-
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;

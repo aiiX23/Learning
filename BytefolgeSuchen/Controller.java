@@ -1,5 +1,3 @@
-package muntenbeck.GUI.BytefolgeSuchen;
-
 public class Controller
 {
 	private View view;
