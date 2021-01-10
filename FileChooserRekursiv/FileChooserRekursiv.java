@@ -1,5 +1,3 @@
-package muntenbeck.GUI.FileChooserRekursiv;
-
 import java.io.File;
 
 import javax.swing.JFileChooser;
